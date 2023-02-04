@@ -18,7 +18,7 @@ module Data.List.Extra(
     wordsBy, linesBy,
     breakOn, breakOnEnd, splitOn, split, chunksOf,
     -- * Basics
-    headDef, lastDef, (!?), notNull, list, unsnoc, cons, snoc,
+    headDef, lastDef, notNull, list, unsnoc, cons, snoc,
     drop1, dropEnd1, mconcatMap, compareLength, comparingLength,
     -- * Enum operations
     enumerate,
